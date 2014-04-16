@@ -1,0 +1,188 @@
+{
+    "category": {
+        "AJAX": [
+            {
+                "title": "Ajax. Wzorce projektowe",
+                "url": "http://helion.pl/ksiazki/ajax-wzorce-projektowe-michael-mahemoff,ajaxwp.htm"
+            },
+            {
+                "title": "Ajax. Zaawansowane programowanie",
+                "url": "http://helion.pl/ksiazki/ajax-zaawansowane-programowanie-nicholas-c-zakas-jeremy-mcpeak-joe-fawcett,ajaxzp.htm"
+            }
+        ],
+        "PHP": [
+            {
+                "title": "PHP5. Zaawansowane programowanie",
+                "url": "http://helion.pl/ksiazki/php5-zaawansowane-programowanie-edward-lecky-thompson-heow-eide-goodman-steven-d,php5zp.htm"
+            },
+            {
+                "title": "Oracle Database. Tworzenie aplikacji internetowych w AJAX i PHP",
+                "url": "http://helion.pl/ksiazki/oracle-database-tworzenie-aplikacji-internetowych-w-ajax-i-php-lee-barney-michael-mclaughlin,ordatw.htm"
+            },
+            {
+                "title": "PHP, MySQL i MVC. Tworzenie witryn WWW opartych na bazie danych",
+                "url": "http://helion.pl/ksiazki/php-mysql-i-mvc-tworzenie-witryn-www-opartych-na-bazie-danych-wlodzimierz-gajda,aplphp.htm"
+            },
+            {
+                "title": "Podręcznik WordPressa. Smashing Magazine",
+                "url": "http://helion.pl/ksiazki/podrecznik-wordpressa-smashing-magazine-thord-daniel-hedengren,podwsm.htm"
+            }
+        ],
+        "e-biznes": [
+            {
+                "title": "E-biznes. Projektowanie dochodowych serwisów",
+                "url": "http://helion.pl/ksiazki/e-biznes-projektowanie-dochodowych-serwisow-lance-loveday-sandra-niehaus,ebizds.htm"
+            },
+            {
+                "title": "Sztuka pisania perswazyjnych tekstów",
+                "url": "http://helion.pl/ksiazki/sztuka-pisania-perswazyjnych-tekstow-piotr-r-michalak-jakub-wozniak,artper.htm"
+            }
+        ],
+        "Web Design": [
+            {
+                "title": "Head First Web Design. Edycja polska",
+                "url": "http://helion.pl/ksiazki/head-first-web-design-edycja-polska-ethan-watrall-jeff-siarto,hfwdep.htm"
+            }
+        ],
+        "UX": [
+            {
+                "title": "Projektowanie stron WWW. Użyteczność w praktyce",
+                "url": "http://helion.pl/ksiazki/projektowanie-stron-www-uzytecznosc-w-praktyce-marek-kasperski-anna-boguska-torbicz,wwprot.htm"
+            },
+            {
+                "title": "Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych. Wydanie II",
+                "url": "http://helion.pl/ksiazki/nie-kaz-mi-myslec-o-zyciowym-podejsciu-do-funkcjonalnosci-stron-internetowych-wydanie-ii-steve-krug,nieka2.htm"
+            },
+            {
+                "title": "Serwisy społecznościowe. Projektowanie",
+                "url": "http://helion.pl/ksiazki/serwisy-spolecznosciowe-projektowanie-joshua-porter,serspp.htm"
+            }
+        ],
+        "SQL": [
+            {
+                "title": "SQL dla każdego",
+                "url": "http://helion.pl/ksiazki/sql-dla-kazdego-rafe-coburn,sqldk.htm"
+            }
+        ],
+        "Design Patterns": [
+            {
+                "title": "Wzorce projektowe. Rusz głową!",
+                "url": "http://helion.pl/ksiazki/wzorce-projektowe-rusz-glowa-elisabeth-freeman-eric-freeman-bert-bates-kathy,wzorrg.htm"
+            },
+            {
+                "title": "Wzorce projektowe. Elementy oprogramowania obiektowego wielokrotnego użytku",
+                "url": "http://helion.pl/ksiazki/wzorce-projektowe-elementy-oprogramowania-obiektowego-wielokrotnego-uzytku-erich-gamma-richard-helm-ralph-johnson-john-m,wzoele.htm"
+            }
+        ],
+        "CSS": [
+            {
+                "title": "Podręcznik CSS. Eric Meyer o tworzeniu nowoczesnych układów stron WWW. Smashing Magazine",
+                "url": "http://helion.pl/ksiazki/podrecznik-css-eric-meyer-o-tworzeniu-nowoczesnych-ukladow-stron-www-smashing-magazine-eric-meyer,tfacss.htm"
+            },
+            {
+                "title": "CSS3. Tworzenie nowoczesnych stron WWW",
+                "url": "http://helion.pl/ksiazki/css3-tworzenie-nowoczesnych-stron-www-lukasz-pasternak,css3tw.htm"
+            }
+        ],
+        "JS": [
+            {
+                "title": "JavaScript. Programowanie obiektowe",
+                "url": "http://helion.pl/ksiazki/javascript-programowanie-obiektowe-stoyan-stefanov,jascob.htm"
+            },
+            {
+                "title": "JavaScript. Rozmówki",
+                "url": "http://helion.pl/ksiazki/javascript-rozmowki-christian-wenz,jscroz.htm"
+            },
+            {
+                "title": "JavaScript. Wzorce",
+                "url": "http://helion.pl/ksiazki/javascript-wzorce-stoyan-stefanov,jascwz.htm"
+            },
+            {
+                "title": "Podręcznik Node.js. Smashing Magazine",
+                "url": "http://helion.pl/ksiazki/podrecznik-node-js-smashing-magazine-guillermo-rauch,podnod.htm"
+            },
+            {
+                "title": "Android. Tworzenie aplikacji w oparciu o HTML, CSS i JavaScript",
+                "url": "http://helion.pl/ksiazki/android-tworzenie-aplikacji-w-oparciu-o-html-css-i-javascript-jonathan-stark-brian-jepson,andrta.htm"
+            },
+            {
+                "title": "JavaScript - mocne strony",
+                "url": "http://helion.pl/ksiazki/javascript-mocne-strony-douglas-crockford,jscmoc.htm"
+            }
+        ],
+        "HTML": [
+            {
+                "title": "HTML5. Nieoficjalny podręcznik",
+                "url": "http://helion.pl/ksiazki/html5-nieoficjalny-podrecznik-matthew-macdonald,htm5np.htm"
+            },
+            {
+                "title": "HTML5. Programowanie aplikacji",
+                "url": "http://helion.pl/ksiazki/html5-programowanie-aplikacji-zachary-kessin,htm5pa.htm"
+            }
+        ],
+        "GameDev": [
+            {
+                "title": "Fizyka dla programistów gier",
+                "url": "http://helion.pl/ksiazki/fizyka-dla-programistow-gier-david-m-bourg,fiprog.htm"
+            },
+            {
+                "title": "Tworzenie gier internetowych. Receptury",
+                "url": "http://helion.pl/ksiazki/tworzenie-gier-internetowych-receptury-evan-burchard,twgint.htm"
+            },
+            {
+                "title": "HTML5. Tworzenie gier",
+                "url": "http://helion.pl/ksiazki/html5-tworzenie-gier-jacob-seidelin,htm5tg.htm"
+            }
+        ],
+        "Performance": [
+            {
+                "title": "Wydajne witryny internetowe. Przyspieszanie działania serwisów WWW",
+                "url": "http://helion.pl/ksiazki/wydajne-witryny-internetowe-przyspieszanie-dzialania-serwisow-www-steve-souders,oprzep.htm"
+            },
+            {
+                "title": "Jeszcze wydajniejsze witryny internetowe. Przyspieszanie działania serwisów WWW",
+                "url": "http://helion.pl/ksiazki/jeszcze-wydajniejsze-witryny-internetowe-przyspieszanie-dzialania-serwisow-www-steve-souders,jewywi.htm"
+            }
+        ],
+        "Hacking": [
+            {
+                "title": "Sztuka podstępu. Łamałem ludzi, nie hasła. Wydanie II",
+                "url": "http://helion.pl/ksiazki/sztuka-podstepu-lamalem-ludzi-nie-hasla-wydanie-ii-kevin-d-mitnick-william-l-simon,artde2.htm"
+            },
+            {
+                "title": "PHP5. Bezpieczne programowanie. Leksykon kieszonkowy",
+                "url": "http://helion.pl/ksiazki/php5-bezpieczne-programowanie-leksykon-kieszonkowy-jacek-ross,php5lk.htm"
+            }
+        ],
+        "Testowanie": [
+            {
+                "title": "JUnit. Pragmatyczne testy jednostkowe w Javie",
+                "url": "http://helion.pl/ksiazki/junit-pragmatyczne-testy-jednostkowe-w-javie-andy-hunt-dave-thomas,junit.htm"
+            }
+        ],
+        "Algorytmy": [
+            {
+                "title": "Algorytmy, struktury danych i techniki programowania. Wydanie IV",
+                "url": "http://helion.pl/ksiazki/algorytmy-struktury-danych-i-techniki-programowania-wydanie-iv-piotr-wroblewski,algo4.htm"
+            }
+        ],
+        "Pozostałe": [
+            {
+                "title": "Wielkie umysły programowania. Jak myślą i pracują twórcy najważniejszych języków",
+                "url": "http://helion.pl/ksiazki/wielkie-umysly-programowania-jak-mysla-i-pracuja-tworcy-najwazniejszych-jezykow-federico-biancuzzi-shane-warden,wieumy.htm"
+            },
+            {
+                "title": "Mistrz czystego kodu. Kodeks postępowania profesjonalnych programistów",
+                "url": "http://helion.pl/ksiazki/mistrz-czystego-kodu-kodeks-postepowania-profesjonalnych-programistow-robert-c-martin,mckkod.htm"
+            },
+            {
+                "title": "Agile. Programowanie w Rails. Wydanie II",
+                "url": "http://helion.pl/ksiazki/agile-programowanie-w-rails-wydanie-ii-zespol-autorow,agilep.htm"
+            },
+            {
+                "title": "Head First Software Development. Edycja polska",
+                "url": "http://helion.pl/ksiazki/head-first-software-development-edycja-polska-dan-pilone-russ-miles,hfsode.htm"
+            }
+        ]
+    }
+}
