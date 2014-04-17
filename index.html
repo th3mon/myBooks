@@ -9,30 +9,27 @@
   </head>
   <body>
     
-    <div class="row">
+    <main class="row">
       <div class="large-12 columns">
         <h1>Welcome to myBooks</h1>
       </div>
-    </div>
-
-    <main class="row">
       <form id="search">
         <input tabindex="1" id="autocomplete" type="search" placeholder="Search books: e.g. title" autocomplete="off">
       </form>
-        <ul id="books"></ul>
-        <script id="books-template" type="text/x-handlebars-template">
-        {{#each category}}
-          <li class="category"><span>{{this.name}}</span>
-            {{#each this.books}}
-            <ul>
-              <li>
-                <a href="{{this.url}}">{{this.title}}</a>
-              </li>
-            </ul>
-            {{/each}}
-          </li>
-        {{/each}}
-        </script>
+      <ul id="books"></ul>
+      <script id="books-template" type="text/x-handlebars-template">
+      {{#each category}}
+        <li class="category"><span>{{this.name}}</span>
+          {{#each this.books}}
+          <ul>
+            <li>
+              <a href="{{this.url}}">{{this.title}}</a>
+            </li>
+          </ul>
+          {{/each}}
+        </li>
+      {{/each}}
+      </script>
     </main>
     
     <script src="js/vendor/jquery.js"></script>
