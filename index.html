@@ -15,31 +15,24 @@
       </div>
     </div>
 
-    <main>
-      <div class="large-3 medium-4 columns">
-        <div class="sidebar">
-          <form id="search">
-            <input tabindex="1" id="autocomplete" type="search" placeholder="Search books: e.g. title" autocomplete="off">
-          </form>
-          <nav>
-            <ul id="books"></ul>
-            <script id="books-template" type="text/x-handlebars-template">
-            {{#each category}}
-              <li class="category"><span>{{this.name}}</span>
-                {{#each this.books}}
-                <ul>
-                  <li>
-                    <a href="{{this.url}}">{{this.title}}</a>
-                  </li>
-                </ul>
-                {{/each}}
+    <main class="row">
+      <form id="search">
+        <input tabindex="1" id="autocomplete" type="search" placeholder="Search books: e.g. title" autocomplete="off">
+      </form>
+        <ul id="books"></ul>
+        <script id="books-template" type="text/x-handlebars-template">
+        {{#each category}}
+          <li class="category"><span>{{this.name}}</span>
+            {{#each this.books}}
+            <ul>
+              <li>
+                <a href="{{this.url}}">{{this.title}}</a>
               </li>
+            </ul>
             {{/each}}
-            </script>
-          </nav>
-        </div>
-      </div>
-      <div class="large-9 medium-8 columns"></div>
+          </li>
+        {{/each}}
+        </script>
     </main>
     
     <script src="js/vendor/jquery.js"></script>
