@@ -17,12 +17,13 @@
                         template = Handlebars.compile(source);
 
                     $.getJSON('data/books.json', function(data) {
+                        data.category = _.sortBy(data.category, 'name');
                         $('#books').html(template(data));
                     });
                 }
             }
         };
-        
+
     $(init);
 }(window, document, jQuery));
     
