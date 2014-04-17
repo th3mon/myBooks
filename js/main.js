@@ -19,6 +19,7 @@
                     $.getJSON('data/books.json', function(data) {
                         data.category = _.sortBy(data.category, 'name');
                         $('#books').html(template(data));
+                        $('#search').treeListFilter('#books', 200);
                     });
                 }
             }
