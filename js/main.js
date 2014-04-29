@@ -14,12 +14,29 @@
                 init: function(){
                     var
                         source = $('#books-template').html(),
-                        template = Handlebars.compile(source);
+                        template = Handlebars.compile(source),
+                        state = '';
+
+                    $('#search')
+                        .treeListFilter('#books', 200)
+                        .on('change', function(e) {
+                            if ('' === $(this).val()) {
+                                state = '';
+                            }
+
+                            else {
+                                state = 'typed';
+                            }
+                        })
+                        .on('click', function() {
+                            if (('typed' === state) && ('' === $(this).val())) {
+                                location.reload();
+                            }
+                        });
 
                     $.getJSON('data/books.json', function(data) {
                         data.category = _.sortBy(data.category, 'name');
                         $('#books').html(template(data));
-                        $('#search').treeListFilter('#books', 200);
                     });
                 }
             }
